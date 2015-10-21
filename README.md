@@ -21,6 +21,7 @@ Antes de começar você precisa criar uma conta no [Github]( https://github.com/
 - [Terminal cheat sheet](http://cli.learncodethehardway.org/bash_cheat_sheet.pdf)
 - Em caso de emergência: https://help.github.com/
 - [Slides](http://nathcampreguer.github.io/git-workshop-slides/)
--
+
 
 ### Participantes
+- Anderson P. de Albuquerque
