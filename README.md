@@ -24,3 +24,5 @@ Antes de começar você precisa criar uma conta no [Github]( https://github.com/
 -
 
 ### Participantes
+- Daniel Kikuti
+- Estevan Gregori
