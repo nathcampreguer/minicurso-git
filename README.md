@@ -24,4 +24,4 @@ Antes de começar você precisa criar uma conta no [Github]( https://github.com/
 -
 
 ### Participantes
-Lucas Fernandes Fleming
+Lucas F. Fleming
